@@ -11,7 +11,7 @@ Python Test Package
 .. image:: https://pypip.in/d/pytestpackage/badge.png
     :target: https://pypi.python.org/pypi/pytestpackage
     
-.. image:: https://readthedocs.org/projects/pytestpackage/?badge=latest
+.. image:: https://readthedocs.org/projects/pytestpackage/badge/?version=latest
     :target: https://readthedocs.org/projects/pytestpackage/
 
 
