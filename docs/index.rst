@@ -17,6 +17,9 @@ Contents:
    authors
    history
 
+.. automodule:: pytestpackage
+	:members:
+
 Feedback
 ========
 
