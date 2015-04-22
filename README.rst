@@ -11,8 +11,9 @@ Python Test Package
 .. image:: https://testpypi.in/d/pytestpackage/badge.png
     :target: https://testpypi.python.org/pypi/pytestpackage
     
-.. image:: https://readthedocs.org/projects/pytestpackage/badge/
-    :target: https://readthedocs.org/projects/pytestpackage/
+.. image:: https://readthedocs.org/projects/pytestpackage/badge/?version=latest
+    :target: https://readthedocs.org/projects/pytestpackage/?badge=latest
+    :alt: Documentation Status
 
 
 testing python packaging...
