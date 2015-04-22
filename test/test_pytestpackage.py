@@ -4,6 +4,12 @@ Tests for `pytestpackage` module.
 import pytest
 from pytestpackage import pytestpackage
 
+def func(x):
+    return x + 1
+
+def test_answer():
+    assert func(3) == 5
+
 
 class TestPytestpackage(object):
 
