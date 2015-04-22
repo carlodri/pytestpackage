@@ -13,12 +13,9 @@ Contents:
 
    installation
    usage
+   API_reference
    contributing
    authors
-   history
-
-.. automodule:: pytestpackage.pytestpackage
-	:members:
 
 Feedback
 ========
