@@ -26,7 +26,7 @@ setup(
     name='pytestpackage',
     version=__version__,
     description='testing python packaging...',
-    long_description=readme + '\n\n' + doclink + '\n\n' + history,
+    long_description=readme,
     author='Carlo Dri',
     author_email='carlo.dri@gmail.com',
     url='https://github.com/carlodri/pytestpackage',
