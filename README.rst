@@ -8,7 +8,7 @@ Python Test Package
 .. image:: https://travis-ci.org/carlodri/pytestpackage.png?branch=master
     :target: https://travis-ci.org/carlodri/pytestpackage
 
-.. image:: https://testpypip.in/d/pytestpackage/badge.png
+.. image:: https://testpypi.in/d/pytestpackage/badge.png
     :target: https://testpypi.python.org/pypi/pytestpackage
     
 .. image:: https://readthedocs.org/projects/pytestpackage/badge/?version=latest
