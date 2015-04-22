@@ -21,9 +21,11 @@ Documentation
 The full documentation is at http://pytestpackage.rtfd.org."""
 history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
+exec(open('pytestpackage/version.py').read()) # loads __version__
+
 setup(
     name='pytestpackage',
-    version='0.1.1',
+    version=__version__,
     description='testing python packaging...',
     long_description=readme + '\n\n' + doclink + '\n\n' + history,
     author='Carlo Dri',
